@@ -47,5 +47,5 @@ $ npm start
 
 ## Contributors
 
-Shubhankar Dubey
+Ayush Singh
 
